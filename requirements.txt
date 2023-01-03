@@ -4,3 +4,5 @@ jinja2
 branca
 streamlit_folium
 polyline
+folium
+pydeck
