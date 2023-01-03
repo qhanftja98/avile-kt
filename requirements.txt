@@ -6,4 +6,3 @@ branca
 streamlit_folium
 pydeck
 datatime
-requests
