@@ -1,6 +1,10 @@
 streamlit
 pandas
-folium>=0.11
+folium
 jinja2
 branca
 streamlit_folium
+pydeck
+datatime
+requests
+polyline
