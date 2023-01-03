@@ -6,3 +6,4 @@ streamlit_folium
 polyline
 folium
 pydeck
+pickle
