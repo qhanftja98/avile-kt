@@ -1,6 +1,5 @@
 streamlit
 pandas
-folium
 jinja2
 branca
 streamlit_folium
