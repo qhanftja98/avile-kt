@@ -6,4 +6,3 @@ streamlit_folium
 polyline
 folium
 pydeck
-requests
